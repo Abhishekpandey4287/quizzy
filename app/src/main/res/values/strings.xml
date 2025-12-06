@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quizzy</string>
+    <string name="welcome_to_quizzy">Welcome to Quizzy!</string>
+    <string name="lets_get_you_signed_in">Let\'s Get you Signed in</string>
+    <string name="school_id">School ID</string>
+    <string name="student_id">Student ID</string>
+    <string name="sign_in">Sign in</string>
+    <string name="home">Home</string>
+    <string name="logout">Logout</string>
+    <string name="retry">Retry</string>
+    <string name="cancel">Cancel</string>
+    <string name="error">Error</string>
+    <string name="loading">Loading...</string>
+    <string name="todays_summary">Today\'s Summary</string>
+    <string name="weekly_overview">Weekly Overview</string>
+    <string name="quiz_streak">Quiz Streak</string>
+    <string name="accuracy">Accuracy</string>
+    <string name="performance_by_topic">Performance by Topic</string>
+    <string name="logout_confirmation">Are you sure you want to logout?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="watch_video">Watch Video</string>
+    <string name="present">Present</string>
+    <string name="absent">Absent</string>
+    <string name="attempt">Attempt</string>
+</resources>

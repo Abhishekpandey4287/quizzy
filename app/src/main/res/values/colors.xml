@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_dark">#3700B3</color>
+    <color name="primary_light">#BB86FC</color>
+    <color name="primary_light_bg">#F3E5F5</color>
+
+    <color name="secondary">#03DAC6</color>
+    <color name="secondary_dark">#018786</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="background">#F5F5F5</color>
+
+    <color name="text_hint">#9E9E9E</color>
+
+    <color name="green_light">#E8F5E9</color>
+    <color name="red_500">#F44336</color>
+    <color name="red_light">#FFEBEE</color>
+    <color name="blue">#2196F3</color>
+    <color name="yellow">#FFC107</color>
+
+    <color name="gray_100">#F5F5F5</color>
+    <color name="gray_200">#EEEEEE</color>
+    <color name="gray_300">#E0E0E0</color>
+    <color name="gray_400">#BDBDBD</color>
+    <color name="gray_500">#9E9E9E</color>
+    <color name="gray_600">#757575</color>
+    <color name="gray_700">#616161</color>
+    <color name="gray_800">#424242</color>
+
+    <color name="chart_blue">#2196F3</color>
+    <color name="chart_green">#4CAF50</color>
+    <color name="chart_orange">#FF9800</color>
+    <color name="chart_purple">#9C27B0</color>
+
+    <color name="bg_white">#FFFFFF</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="primary">#6B46FF</color>
+    <color name="availability_bg">#E6F8EE</color>
+    <color name="quiz_bg">#FFF6E6</color>
+    <color name="accuracy_bg">#FFF0F0</color>
+    <color name="green">#34C759</color>
+    <color name="red">#FF6B6B</color>
+    <color name="progress_fill">#F87171</color>
+    <color name="progress_bg">#FEE2E2</color>
+
+    <color name="light_orange">#FFF4E7</color>
+    <color name="orange">#F4A261</color>
+
+    <color name="light_purple">#F4EAFF</color>
+    <color name="purple">#8D4DE8</color>
+    <color name="light_green">#E9FFE9</color>
+
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:gravity="bottom"
+    android:orientation="vertical"
+    android:paddingEnd="16dp">
+    <View
+        android:id="@+id/viewBar"
+        android:layout_width="18dp"
+        android:layout_height="50dp"
+        android:background="@drawable/bar_neutral"
+        android:layout_marginBottom="4dp" />
+
+    <TextView
+        android:id="@+id/tvTopicName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Topic"
+        android:textSize="10sp"
+        android:maxLines="1"
+        android:ellipsize="end"
+        android:textColor="@color/text_primary"/>
+
+</LinearLayout>
